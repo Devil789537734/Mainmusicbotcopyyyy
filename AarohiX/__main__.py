@@ -52,12 +52,12 @@ async def init():
     await userbot.start()
     await Aarohi.start()
     try:
-        await Aarohi.stream_decall("https://telegra.ph/file/de3464aa7d6bfafdd2dc3.mp4")
+        await Aarohi.stream_decall("https://telegra.ph/file/440427330b7871341f2cf.mp4")
     except:
         pass
     try:
         await Aarohi.stream_call(
-            "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4"
+            "https://telegra.ph/file/440427330b7871341f2cf.mp4"
         )
     except NoActiveGroupCall:
         LOGGER("AarohiX").error(
