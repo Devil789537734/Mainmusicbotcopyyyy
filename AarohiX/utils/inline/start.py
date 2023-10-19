@@ -34,7 +34,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             InlineKeyboardButton(
                 text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ]💝", user_id=OWNER),
             InlineKeyboardButton(
-                text="🥰sᴜᴩᴩᴏʀᴛ🥰", url=config.SUPPORT_GROUP
+                text="🥰R̸e̸p̸o̸🥰", url=f"https://telegra.ph/file/440427330b7871341f2cf.mp4"
             ),
         ],
      ]
@@ -64,7 +64,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ💝", user_id=OWNER),
             InlineKeyboardButton(
-                text="🥰sᴜᴩᴩᴏʀᴛ[ᴀɪᴍ]🥰", url=config.SUPPORT_GROUP
+                text="🧐R̸e̸p̸o̸🧐", url=f"https://telegra.ph/file/440427330b7871341f2cf.mp4"
             ),
         ],
         [
