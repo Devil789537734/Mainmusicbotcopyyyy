@@ -151,9 +151,9 @@ async def start_comm(client, message: Message, _):
 📎 **ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ:** [ᴠɪsɪᴛ ᴄʜᴀɴɴᴇʟ]({channellink})
 🔗 **ʟɪɴᴋ:** [ᴡᴀᴛᴄʜ ᴏɴ ʏᴏᴜᴛᴜʙᴇ]({link})
 
-**💞Ꮇꮧꮥꭷꭷꮇ Ꮭꮧꮄꮶꭵ🤪💞**
+**💞Ƨтαят Ƥ˩αʏιиɢ 𝗬σʋя Μʋƨιc💞**
 
-|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [𝐒ԋɿ̆ꪜ͜ᴀ͎ղ𝒊❣️](https://t.me/SHIVANI_SHIVANI_123) 🥀 ||
+|| ᴍᴀᴅᴇ ʙʏ [𝐒ԋɿ̆ꪜ͜ᴀ͎ղ𝒊❣](https://t.me/SHIVANI_SHIVANI_123) 🥀 ||
 
 ᴀɪᴍ[💖] sᴇᴀʀᴄʜ ᴩᴏᴡᴇʀᴇᴅ ʙʏ {config.MUSIC_BOT_NAME}"""
             key = InlineKeyboardMarkup(
