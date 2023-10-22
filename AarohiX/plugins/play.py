@@ -28,7 +28,7 @@ from AarohiX.utils.stream.stream import stream
 
 # Command
 PLAY_COMMAND = get_command("PLAY_COMMAND")
-
+SHIVANI_COMMAND = get_command("PLAY_COMMAND")
 
 @app.on_message(
     filters.command(PLAY_COMMAND)
