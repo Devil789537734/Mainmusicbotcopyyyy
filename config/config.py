@@ -83,7 +83,7 @@ PING_IMG_URL = getenv(
     "https://telegra.ph/file/adbb000946bb65883b56f.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/e6bde7316819467624ab9.jpg"
 
 GLOBAL_IMG_URL = "https://telegra.ph/file/f29148ca39ec38b0ebbf1.jpg"
 
@@ -93,7 +93,7 @@ TELEGRAM_AUDIO_URL = "https://telegra.ph/file/f29148ca39ec38b0ebbf1.jpg"
 
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/f29148ca39ec38b0ebbf1.jpg"
 
-STREAM_IMG_URL = "https://telegra.ph/file/f29148ca39ec38b0ebbf1.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/e6bde7316819467624ab9.jpg"
 
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/f29148ca39ec38b0ebbf1.jpg"
 
