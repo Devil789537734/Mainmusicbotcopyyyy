@@ -163,7 +163,7 @@ async def start_comm(client, message: Message, _):
                             text="🍃•ʏᴏᴜᴛᴜʙᴇ•🍃", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="🍁•Ꮇꮧꮥꭷꭷꮇ Ꮭꮧꮄꮶꭵ🍁•", url="https://t.me/SHIVANI_SHIVANI_123"
+                            text="🍁мʏ ℓιғɛ мʏ 🤭вяσтнɛя🍁", url="https://t.me/DEV1L_999"
                         ),
                     ],
                 ]
