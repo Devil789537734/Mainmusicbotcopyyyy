@@ -25,7 +25,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 Ꮇꮧꮥꭷꭷꮇ Ꮭꮧꮄꮶꭵ 💖", url=f"https://t.me/SHIVANI_SHIVANI_123"),
+                text="💖 💪 💖", url=f"https://t.me/DEV1L_999"),
             InlineKeyboardButton(
                 text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ🥰", url=f"https://t.me/ShivaniXMusicS"
             ),
@@ -58,7 +58,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             InlineKeyboardButton(
                 text="💖 𝐒ԋɿ̆ꪜ͜ᴀ͎ղ𝒊 💖", url=f"https://t.me/SHIVANI_SHIVANI_123"),
             InlineKeyboardButton(
-                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ 🥰", url=f"https://t.me/ShivaniXMusicS"
+                text="🥰 💪 🥰", url=f"https://t.me/DEV1L_999"
             ),
         ],
         [
