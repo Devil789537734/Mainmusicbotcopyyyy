@@ -54,7 +54,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/SHIVANI_SHIVANI_123",
             ),
            InlineKeyboardButton(
-                text="💖ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/ShivaniXMusicS",
+                text="💖ᴍʏ ℓιғɛ мʏ вяσтнɛя💝", url=f"https://t.me/DEV1L_999",
             ),
         ],
         [
@@ -107,12 +107,12 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/SHIVANI_SHIVANI_123",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/ShivaniXMusicS",
+                text="💝ᴍʏ ℓιғɛ мʏ вяσтнɛя 💝", url=f"https://t.me/DEV1L_999",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅɪʟ] 🥀", url=f"https://t.me/ShivaniXMusicS"
+                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url=f"https://t.me/ShivaniXMusicS"
             ),
             InlineKeyboardButton(
                 text="✯🥺 ᴄʟᴏsᴇ 🥺✯", callback_data="close"
@@ -192,7 +192,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]🥀", url=f"https://t.me/ShivaniXMusicS"
+                text="🥀 sᴜᴩᴩᴏʀᴛ🥀", url=f"https://t.me/ShivaniXMusicS"
             ),
             InlineKeyboardButton(
                 text="✯🥺 ᴄʟᴏsᴇ 🥺✯", callback_data="close"
@@ -344,7 +344,7 @@ def queue_markup(_, videoid, chat_id):
                 text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/SHIVANI_SHIVANI_123",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ💝", url=f"https://t.me/ShivaniXMusicS",
+                text="💝ᴍʏ ℓιғɛ мʏ вяσтнɛя💝", url=f"https://t.me/DEV1L_999",
             ),
         ],
         [
