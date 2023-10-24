@@ -25,14 +25,14 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 💪 💖", url=f"https://t.me/DEV1L_999"),
+                text="💖 Μʋƨιc ˩σʏɛяƨ 💖", url=f"https://t.me/Musix_World_S"),
             InlineKeyboardButton(
                 text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ🥰", url=f"https://t.me/ShivaniXMusicS"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ]💝", user_id=OWNER),
+                text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ💝", user_id=OWNER),
             InlineKeyboardButton(
                 text="🥰R̸e̸p̸o̸🥰", url=f"https://telegra.ph/file/440427330b7871341f2cf.mp4"
             ),
@@ -58,7 +58,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             InlineKeyboardButton(
                 text="💖 𝐒ԋɿ̆ꪜ͜ᴀ͎ղ𝒊 💖", url=f"https://t.me/SHIVANI_SHIVANI_123"),
             InlineKeyboardButton(
-                text="🥰 💪 🥰", url=f"https://t.me/DEV1L_999"
+                text="🥰 Μʋƨιc ˩σʏɛяƨ 🥰", url=f"https://t.me/Musix_World_S"
             ),
         ],
         [
