@@ -7,16 +7,16 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("API_ID", "16184393"))
+API_HASH = getenv("API_HASH", "c79159964107d4b8204ab0a62b3f18bb")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "6360570603:AAHScDI1Dr7p6Sn2emWKhp6pacDN_MSlxXY")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001898745590"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Haamerijaan84:8548965250@cluster9.soj0lsu.mongodb.net/?retryWrites=true&w=majority")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001937023990"))
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐒ԋɿ̆ꪜ͜ᴀ͎ղ𝒊 𝙓 мυѕι¢")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "2107529793").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6695920516").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -25,12 +25,12 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/unknownteam72/NyNewM
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/LOVE_FEELINGS_WILL")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/LOVE_FEELINGS_WILL")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ShivaniXMusicxsupport")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Musix_World_S")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
  
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
